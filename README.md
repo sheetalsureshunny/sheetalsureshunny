@@ -6,6 +6,8 @@ My research journey includes developing sustainable engineering solutions throug
 <br>
 Currently a **researcher** at **Sahrdaya CPS project**, focusing on **AI/ML** driven solutions for human healthcare and plant pathology.
 
+***
+
 ## projects:
 
 <br>
