@@ -1,8 +1,10 @@
-## Sheetal Suresh Unny
+# Sheetal Suresh Unny
 
-B.Tech Biomedical Engineering student with a strong passion for artificial intelligence and hardware robotics. I’m deeply interested in exploring how biology and technology can work together to solve real-world problems. I have also conducted research on algae and developed algae-based sustainable engineering projects, focusing on eco friendly and innovative solutions that bridge the gap between biological systems and modern technology.
-
-***
+Biomedical Engineering undergraduate passionate about AI and hardware robotics, exploring the intersection of biology and technology.
+<br>
+My research journey includes developing sustainable engineering solutions through algae based studies and building hardware integrated robotics.
+<br>
+Currently a researcher at Sahrdaya CPS project, focusing on AI/ML driven solutions for human healthcare and plant pathology.
 
 ## projects:
 
