@@ -2,6 +2,32 @@
 
 B.Tech Biomedical Engineering student with a strong passion for artificial intelligence and hardware robotics. I’m deeply interested in exploring how biology and technology can work together to solve real-world problems. I have also conducted research on algae and developed algae-based sustainable engineering projects, focusing on eco friendly and innovative solutions that bridge the gap between biological systems and modern technology.
 
+***
+
+## projects:
+
+<br>
+
+-  **[NeuroStride](https://github.com/sheetalsureshunny/NeuroStride)**<br>
+\\___ AI-powered EMG analysis system for signal processing, quality evaluation, and neurological impairment prediction.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `Python`, `XGBoost`, `Streamlit`<br>
+
+-  **[RageRanker](https://github.com/sheetalsureshunny/RageRanker)**<br>
+\\___ WhatsApp bot that scores messages using AI, tracks user rankings, and generates automated leaderboards.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `Node.js`, `Groq AI`, `SQLite`, `Baileys`<br>
+
+-  **[NyayaMed](https://github.com/sheetalsureshunny/NyayaMed)**<br>
+\\__ Consent-first medical data platform with encrypted records, time-limited access, and privacy-safe research sharing.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `React`, `Firebase`, `crypto-js`<br>
+
+-  **[Plant-Disease-Detector](https://github.com/sheetalsureshunny/Plant-Disease-Detector)**<br>
+\\___ Machine learning system for detecting plant diseases from images with prediction confidence scores.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `Python`, `OpenCV`, `CNN`, `Docker`<br>
+
+<br>
+
+## Languages and Tools:
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
