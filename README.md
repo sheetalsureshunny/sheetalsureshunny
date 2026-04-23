@@ -12,7 +12,7 @@ Currently a **researcher** at **Sahrdaya CPS project**, focusing on **AI/ML** dr
 
 -  **[NeuroStride](https://github.com/sheetalsureshunny/NeuroStride)**<br>
 \\___ AI-powered EMG analysis system for signal processing, quality evaluation, and neurological impairment prediction.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `Python`, `XGBoost`, `Streamlit`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `Python`, `XGBoost`, `scikit-learn`, `Streamlit`<br>
 
 -  **[NyayaMed](https://github.com/sheetalsureshunny/NyayaMed)**<br>
 \\__ Consent-first medical data platform with encrypted records, time limited access, and privacy safe research sharing.<br>
