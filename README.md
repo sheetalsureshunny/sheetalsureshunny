@@ -12,15 +12,15 @@ Currently a **researcher** at **Sahrdaya CPS project**, focusing on **AI/ML** dr
 
 -  **[NeuroStride](https://github.com/sheetalsureshunny/NeuroStride)**<br>
 \\___ AI-powered EMG analysis system for signal processing, quality evaluation, and neurological impairment prediction.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `Python`, `XGBoost`, `scikit-learn`, `Streamlit`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `Python`, `XGBoost`, `Scikit-learn`, `Streamlit`<br>
 
 -  **[NyayaMed](https://github.com/sheetalsureshunny/NyayaMed)**<br>
 \\__ Consent-first medical data platform with encrypted records, time limited access, and privacy safe research sharing.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `React`, `Firebase`, `crypto-js`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `React`, `Firebase`, `Crypto-js`<br>
 
 -  **[Plant-Disease-Detector](https://github.com/sheetalsureshunny/Plant-Disease-Detector)**<br>
 \\___ Machine learning system for detecting plant diseases from images with prediction confidence scores.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `Python`, `OpenCV`, `CNN`, `Docker`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `Python`, `OpenCV`, `Tensorflow`, `Docker`<br>
 
 -  **[RageRanker](https://github.com/sheetalsureshunny/RageRanker)**<br>
 \\___ WhatsApp bot that scores messages using AI, tracks user rankings, and generates automated leaderboards.<br>
