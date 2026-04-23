@@ -62,11 +62,3 @@ Currently a **researcher** at **Sahrdaya CPS project**, focusing on **AI/ML** dr
 
 ---
 
-<p align="center">
-  <a href="https://www.instagram.com/sheetal_suresh__">[Instagram]</a> • 
-  <a href="https://www.linkedin.com/in/sheetal-suresh-unny">[LinkedIn]</a> • 
-  <a href="https://www.youtube.com/@sheetalsureshunny7374">[YouTube]</a> • 
-  <a href="mailto:sheetalsureshunny@gmail.com">[Gmail]</a>
-  
-  
-</p>
