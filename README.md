@@ -2,9 +2,9 @@
 
 Biomedical Engineering undergraduate passionate about AI and hardware robotics, exploring the intersection of biology and technology.
 <br>
-My research journey includes developing sustainable engineering solutions through algae based studies and building hardware integrated robotics.
+My research journey includes developing sustainable engineering solutions through **Algae** based studies and building hardware integrated robotics.
 <br>
-Currently a researcher at Sahrdaya CPS project, focusing on AI/ML driven solutions for human healthcare and plant pathology.
+Currently a **researcher** at **Sahrdaya CPS project**, focusing on **AI/ML** driven solutions for human healthcare and plant pathology.
 
 ## projects:
 
