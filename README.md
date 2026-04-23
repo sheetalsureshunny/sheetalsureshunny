@@ -19,7 +19,7 @@ Currently a **researcher** at **Sahrdaya CPS project**, focusing on **AI/ML** dr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `Node.js`, `Groq AI`, `SQLite`, `Baileys`<br>
 
 -  **[NyayaMed](https://github.com/sheetalsureshunny/NyayaMed)**<br>
-\\__ Consent-first medical data platform with encrypted records, time-limited access, and privacy-safe research sharing.<br>
+\\__ Consent-first medical data platform with encrypted records, time limited access, and privacy safe research sharing.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\_ `React`, `Firebase`, `crypto-js`<br>
 
 -  **[Plant-Disease-Detector](https://github.com/sheetalsureshunny/Plant-Disease-Detector)**<br>
